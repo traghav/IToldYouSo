@@ -1,0 +1,22 @@
+{
+  "name": "itoldyouso",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.0.17",
+    "react-typing": "^1.0.0",
+    "react-typing-animation": "^1.1.5",
+    "react-typist": "^2.0.4",
+    "react-typist-loop": "0.0.3",
+    "react-web3": "^0.4.3",
+    "web3": "^1.0.0-beta.27"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
